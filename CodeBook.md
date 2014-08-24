@@ -64,12 +64,12 @@ So the final list of columns consists of 561 + 2 = 563 names.
 
 :: List of variable names ::
 --------------
-The complete original "feature.txt" list has 561 names which correspond to the names for every column in the data sets: 
+The **complete original "feature.txt" list has 561 names** which correspond to the names for every column in the data sets: 
 
 - X_train.txt
 - X_test.txt
 
-** For a more detailed description of the variable names and the raw / pre-processed data, you can refer to the files: "feature.txt", 'features.info' and 'README.txt' which are provided by the authors. **
+**For a more detailed description of the variable names and the raw / pre-processed data, you can refer to the files: "feature.txt", 'features.info' and 'README.txt' which are provided by the authors.**
 
 
 For each record in the dataset it is provided: 
