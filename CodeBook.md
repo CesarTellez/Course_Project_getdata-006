@@ -1,14 +1,16 @@
 Code Book
 ==========================
 
-COURSERA - Getting and Cleaning Data (August 2014 - getdata-006)  
+COURSERA - Getting and Cleaning Data
+--------------
+(August 2014 - getdata-006)  
 --------------
 Peer Assessments / Getting and Cleaning Data Course Project  
 --------------
 
 
 
-- Data:
+:: Data ::
 --------------
 
 Data consists of 7 data sets, which were divided originally from 1 data set.
@@ -30,7 +32,7 @@ They called the files:
 
 
 
-- Transformations:
+:: Transformations ::
 --------------
 
 - The column names were chosen from the list or vector provided in the file *features.txt*.  It was processed to get rid off symbols like commas, parentheses, minus, dots, etc.
@@ -60,7 +62,7 @@ So the final list of columns consists of 561 + 2 = 563 names.
 
 
 
-- List of variable names:
+:: List of variable names ::
 --------------
 The complete original "feature.txt" list has 561 names which correspond to the names for every column in the data sets: 
 
@@ -79,7 +81,7 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-* Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones *
+*Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones*
 
 
 Information about the authros of data sets : 
@@ -88,10 +90,12 @@ Information about the authros of data sets :
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
 DITEN - Università degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
+
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
