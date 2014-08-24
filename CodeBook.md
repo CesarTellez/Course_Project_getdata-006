@@ -84,7 +84,7 @@ For each record in the dataset it is provided:
 *Source: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones*
 
 
-Information about the authros of data sets : 
+Information about the authors of data sets : 
 --------------
 
 Human Activity Recognition Using Smartphones Dataset
