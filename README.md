@@ -29,3 +29,5 @@ In general, the script works in this way:
 Fourth:
 --------------
 At the end the data set *independent* is exported with the function write.table() to the text file:  **independent_tidy.txt**.  Also you can verify that was correctly exported by loading it and visualizing the correspondent data frame. (*test*)
+
+** Don't worry, the source code in the script has comments for every step in the processing of data sets. **
